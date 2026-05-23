@@ -1,0 +1,171 @@
+{
+  "grade": 6,
+  "subject": "Mixed General Knowledge and Mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the place value of 5 in 45,672?",
+      "options": [
+        "5",
+        "50",
+        "5000",
+        "500"
+      ],
+      "answer": "5000"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "What is 18 × 6?",
+      "options": [
+        "96",
+        "108",
+        "88",
+        "118"
+      ],
+      "answer": "108"
+    },
+    {
+      "id": 4,
+      "question": "Who wrote the National Anthem of India?",
+      "options": [
+        "Rabindranath Tagore",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bankim Chandra Chattopadhyay"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": 5,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "id": 6,
+      "question": "What is the HCF of 12 and 18?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "9"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 7,
+      "question": "Which is the largest continent?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "Australia"
+      ],
+      "answer": "Asia"
+    },
+    {
+      "id": 8,
+      "question": "How many sides does a hexagon have?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 9,
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "id": 10,
+      "question": "What is 3/4 expressed as a decimal?",
+      "options": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.25"
+      ],
+      "answer": "0.75"
+    },
+    {
+      "id": 11,
+      "question": "Who is known as the Father of the Nation in India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "B. R. Ambedkar"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": 12,
+      "question": "Which is the smallest prime number?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 13,
+      "question": "What is the boiling point of water at sea level?",
+      "options": [
+        "90°C",
+        "100°C",
+        "80°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": 14,
+      "question": "Which festival is known as the Festival of Lights?",
+      "options": [
+        "Holi",
+        "Eid",
+        "Diwali",
+        "Christmas"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "id": 15,
+      "question": "Solve: 144 ÷ 12",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "12"
+    }
+  ]
+}
